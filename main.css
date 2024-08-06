@@ -1,0 +1,10 @@
+h1 {
+    color: red;
+    font-size: 35px;
+    border-color: aqua;
+    background-color: blue;
+    box-shadow: 5px 5px 5px yellow;
+    border: 2px dashed green;
+    text-shadow: 2px 2px 2px blanchedalmond;
+    text-align: center;
+}
